@@ -1,0 +1,59 @@
+Front End developement is a prettry congestd area of technologies.we have many frontend framework.
+like angular vue react and tools ont common thing in all framework is delivery high quality ui.
+
+all of thes framework using encapsulation components. whrn i use a framework like angular react 
+into split the ui into component and encapsulated. all of these framework break everything into 
+components. using web components we can do it without uing any latest framework.
+
+
+
+               what is web components
+            ------------------------------
+
+        1 . set of web platfrom api that allow us to create custom reuseable and encapsulated html tags
+            to use in web pages and web apps.
+
+        2.  Web components do not require any 3 party library or framework.
+
+      
+
+        Main Building blocks of web components
+    --------------------------------------------
+
+    custom Element
+    shadom dom 
+    html templates.
+
+
+
+    1. custom Element    =>  In custom element they give us the capability
+                                to create out custom element like html tags
+                                footer paragraph we can extend in laso
+
+
+                                this is done by creating a class in javascript
+
+                                class Appdrawer extends Html Element
+                                {
+                                    window.custom.element,define(nameof tag , class name)
+                                }
+
+
+        implementation of custom element
+        -------------------------------------
+
+
+
+        Notes - : beacause they are in regilar dom
+        
+        But in a custom element h3 is coral and we don't have to do we want to encapsulate
+        evertyhin or brak into components so for doing for encapuslation or break the component we use shadom dom.
+
+
+        implementation of shadom dom and html templates
+    -----------------------------------------------------------
+
+
+
+    //Design 
+                              
